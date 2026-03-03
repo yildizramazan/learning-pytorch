@@ -1,0 +1,15 @@
+# Reports / Raporlar
+haftalik_rapor_*.md
+haftalık-rapor-*
+weekly_report_*.md
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
