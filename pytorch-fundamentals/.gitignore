@@ -13,3 +13,6 @@ weekly_report_*.md
 # Python cache
 __pycache__/
 *.pyc
+
+# Large dataset files
+data/
